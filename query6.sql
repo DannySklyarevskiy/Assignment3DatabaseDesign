@@ -1,0 +1,2 @@
+--Query 6:  Define an insightful query on 
+--your own that involves at least three tables
